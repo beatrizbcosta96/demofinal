@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Demo</title>
-	<atom:link href="http://localhost/allwebsites/wordpress/category/uncategorized/feed/?simply_static_page=126" rel="self" type="application/rss+xml" />
+	<title>Uncategorized</title>
+	<atom:link href="http://localhost/allwebsites/wordpress/category/uncategorized/feed/?simply_static_page=159" rel="self" type="application/rss+xml" />
 	<link>https://beatrizbcosta.com</link>
 	<description></description>
 	<lastBuildDate>Sun, 15 Oct 2023 23:43:05 +0000</lastBuildDate>
