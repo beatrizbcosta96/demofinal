@@ -9,7 +9,7 @@
 
 <channel>
 	<title></title>
-	<atom:link href="http://localhost/allwebsites/wordpress/feed/?simply_static_page=234" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/allwebsites/wordpress/feed/?simply_static_page=314" rel="self" type="application/rss+xml" />
 	<link>https://beatrizbcosta.com</link>
 	<description></description>
 	<lastBuildDate>Sun, 15 Oct 2023 23:43:05 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://beatrizbcosta.com/wp-content/uploads/2023/10/beatrizcosta-150x150.png</url>
+	<title></title>
+	<link>https://beatrizbcosta.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://beatrizbcosta.com/2023/10/15/hello-world/</link>
