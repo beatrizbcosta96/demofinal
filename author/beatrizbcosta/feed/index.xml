@@ -9,7 +9,7 @@
 
 <channel>
 	<title>beatrizbcosta</title>
-	<atom:link href="http://localhost/allwebsites/wordpress/author/beatrizbcosta/feed/?simply_static_page=7891" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beatrizbcosta.com/author/beatrizbcosta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://beatrizbcosta.com</link>
 	<description></description>
 	<lastBuildDate>Sun, 15 Oct 2023 23:43:05 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://beatrizbcosta.com/wp-content/uploads/2023/10/icons8-lua-brilhante-48.png</url>
